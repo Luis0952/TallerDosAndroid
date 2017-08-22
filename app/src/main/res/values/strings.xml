@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TallerDosAndroid</string>
+    <string name="str_name1">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="correo">Correo</string>
+</resources>
